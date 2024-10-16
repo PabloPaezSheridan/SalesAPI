@@ -1,0 +1,15 @@
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\bin\Debug\net8.0\Services.dll
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\bin\Debug\net8.0\Data.dll
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\bin\Debug\net8.0\Data.pdb
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.dll
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\ppaez007\source\repos\TempLayersArquitectureAustral\Services\obj\Debug\net8.0\ref\Services.dll
